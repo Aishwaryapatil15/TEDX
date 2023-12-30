@@ -1,0 +1,76 @@
+#eng{
+    height:1300px;
+    width:900px;
+    border:15px solid black;
+    box-shadow: 25px 25px 7px red;
+    background-color: beige;
+}
+
+    
+
+
+h1{
+    text-align: center;
+    font-weight: 500;
+}
+#color{
+    color:red;
+}
+#class{
+    color:red;
+}
+p{
+    text-align: center;
+    padding-top:1px;
+    
+}
+.myclass{
+    font-weight: 600px;
+    color:green;
+}
+h2{
+    color:green;
+}
+.box{
+    height:300px;
+    width:400px;
+    border:5px solid rgb(105, 22, 22);
+    color:rgb(105,22,22);
+    margin-left: 25px;
+    box-shadow: 15px 15px 5px black;
+    background-color: aquamarine;
+    
+}
+.box:hover{
+    border-radius: 80px;
+    transition-duration: 2s;
+    box-shadow: 25px 25px 15px red;
+
+}
+.bold{
+    padding-left: 25px;
+    text-decoration: underline;
+}
+.ted{
+    text-align: center;
+    color:blue;
+}
+#form{
+    height:600px;
+    width:400px;
+    border:5px solid black;
+    text-align: center;
+    font-size: larger;
+    box-shadow: 15px 15px 5px black;
+    margin-left: 25px;
+    color:green;
+    background-color: aquamarine;
+}
+#form:hover{
+    border-radius: 10%;
+    box-shadow: 25px 25px 15px rgb(221, 42, 42);
+    transition-duration: 2s;
+}
+button{
+    background-color: green;
+}
